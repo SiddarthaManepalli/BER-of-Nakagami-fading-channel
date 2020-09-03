@@ -1,5 +1,5 @@
 # BER-of-Nakagami-fading-channel
-Performance of Bit Error Probabilities of M-QAM, M-PAK, I-PAM for a channel subjected to impulsive noise and Nakagami fading
+Performance of Bit Error Probabilities of M-QAM, M-PAK, I-PAM for a channel subjected to impulsive noise and Nakagami fading.
 In this project, The Bit Error Probability (BEP) of the M-ary Quadrature Amplitude Modulation scheme (M-QAM), M-ary Phase Shift Keying scheme (M-PSK), I-ary Pulse Amplitude Modulation scheme (I-PAM) for a channel model characterized by double gated additive white Gaussian noise (G2AWGN) and Nakagami fading are evaluated. 
 The Additive noise is obtained by considering a method in which the multiplicative fading is transformed in an additive noise R obtained by dividing the received signal by the estimated fading envelope. 
                        R(t) = ƞ(t)/γ
